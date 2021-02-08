@@ -18,10 +18,10 @@ I'm a freelance backend developer & french blogger
 
 ### Latest Blog Posts 📩
 <!-- BLOG-POST-LIST:START -->
+- [Les itérateurs et générateurs en Javascript](https://www.codeheroes.fr/2021/02/08/les-iterateurs-et-generateurs-en-javascript/?utm_source=rss&utm_medium=rss&utm_campaign=les-iterateurs-et-generateurs-en-javascript)
 - [Mes pires (ou meilleures) anecdotes en tant que développeur](https://www.codeheroes.fr/2021/01/26/mes-pires-ou-meilleures-anecdotes-en-tant-que-developpeur/?utm_source=rss&utm_medium=rss&utm_campaign=mes-pires-ou-meilleures-anecdotes-en-tant-que-developpeur)
 - [Premiers pas avec le langage Rust](https://www.codeheroes.fr/2021/01/18/premiers-pas-avec-le-langage-rust/?utm_source=rss&utm_medium=rss&utm_campaign=premiers-pas-avec-le-langage-rust)
 - [Réussir son entretien technique #1 : Les listes chaînées](https://www.codeheroes.fr/2021/01/04/reussir-son-entretien-technique-les-listes-chainees/?utm_source=rss&utm_medium=rss&utm_campaign=reussir-son-entretien-technique-les-listes-chainees)
 - [Profiler son application Node.js : analyse des traitements asynchrones](https://www.codeheroes.fr/2020/12/09/profiler-son-application-node-js-analyse-des-traitements-asynchrones/?utm_source=rss&utm_medium=rss&utm_campaign=profiler-son-application-node-js-analyse-des-traitements-asynchrones)
-- [Arrêtons d’écrire du code nauséabond](https://www.codeheroes.fr/2020/11/16/arretons-decrire-du-code-nauseabond/?utm_source=rss&utm_medium=rss&utm_campaign=arretons-decrire-du-code-nauseabond)
 <!-- BLOG-POST-LIST:END -->
 <br />
