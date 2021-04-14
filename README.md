@@ -18,10 +18,10 @@ I'm a freelance backend developer & french blogger
 
 ### Latest Blog Posts 📩
 <!-- BLOG-POST-LIST:START -->
+- [Pourquoi lire le code des autres, fera de toi un meilleur développeur ?](https://www.codeheroes.fr/2021/04/14/pourquoi-lire-le-code-des-autres-fera-de-toi-un-meilleur-developpeur/?utm_source=rss&utm_medium=rss&utm_campaign=pourquoi-lire-le-code-des-autres-fera-de-toi-un-meilleur-developpeur)
 - [À la découverte de…Fastify](https://www.codeheroes.fr/2021/03/29/a-la-decouverte-de-fastify/?utm_source=rss&utm_medium=rss&utm_campaign=a-la-decouverte-de-fastify)
 - [Review de livre : “Distributed systems with Node.js”](https://www.codeheroes.fr/2021/03/08/review-de-livre-distributed-systems-with-node-js/?utm_source=rss&utm_medium=rss&utm_campaign=review-de-livre-distributed-systems-with-node-js)
 - [Les itérateurs et générateurs en Javascript](https://www.codeheroes.fr/2021/02/08/les-iterateurs-et-generateurs-en-javascript/?utm_source=rss&utm_medium=rss&utm_campaign=les-iterateurs-et-generateurs-en-javascript)
 - [Mes pires (ou meilleures) anecdotes en tant que développeur](https://www.codeheroes.fr/2021/01/26/mes-pires-ou-meilleures-anecdotes-en-tant-que-developpeur/?utm_source=rss&utm_medium=rss&utm_campaign=mes-pires-ou-meilleures-anecdotes-en-tant-que-developpeur)
-- [Premiers pas avec le langage Rust](https://www.codeheroes.fr/2021/01/18/premiers-pas-avec-le-langage-rust/?utm_source=rss&utm_medium=rss&utm_campaign=premiers-pas-avec-le-langage-rust)
 <!-- BLOG-POST-LIST:END -->
 <br />
