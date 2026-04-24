@@ -18,10 +18,10 @@ I'm a freelance backend developer & french blogger
 
 ### Latest Blog Posts 📩
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript : présentation des « iterator helpers »](https://www.codeheroes.fr/2024/11/05/javascript-presentation-des-iterator-helpers/)
-- [À la découverte de…AdonisJS](https://www.codeheroes.fr/2024/01/14/a-la-decouverte-adonisjs/)
-- [Clarifiez les décisions techniques avec les ADRs](https://www.codeheroes.fr/2023/05/31/clarifiez-les-decisions-techniques-avec-les-adrs/)
-- [TypeScript : Programmation de types](https://www.codeheroes.fr/2023/05/05/typescript-programmation-de-types/)
-- [Logging Node.js avec Pino](https://www.codeheroes.fr/2022/08/29/logging-nodejs-avec-pino/)
+- [Comment je suis devenu manager malgré moi](https://codeheroes.fr/blog/devenu-manager-malgre-moi/)
+- [JavaScript : présentation des &quot;iterator helpers&quot;](https://codeheroes.fr/blog/javascript-presentation-des-iterator-helpers/)
+- [À la découverte de…AdonisJS](https://codeheroes.fr/blog/a-la-decouverte-adonisjs/)
+- [Clarifiez les décisions techniques avec les ADRs](https://codeheroes.fr/blog/clarifiez-les-decisions-techniques-avec-les-adrs/)
+- [TypeScript : Programmation de types](https://codeheroes.fr/blog/typescript-programmation-de-types/)
 <!-- BLOG-POST-LIST:END -->
 <br />
