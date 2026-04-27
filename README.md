@@ -1,8 +1,10 @@
+<div align="center">
+
 ## Hey, I'm Axel Shaïta
 
 Engineering Manager, backend-minded software engineer, AI enthusiast, and French tech blogger.
 
-I care about building useful software with clear architecture, sustainable engineering practices, and teams that can move fast without losing the plot. I also write about software engineering, technical decisions, JavaScript/TypeScript, and the occasional lesson learned the hard way.
+I help teams build useful software with clear architecture, sustainable engineering practices, and a pragmatic relationship with AI.
 
 <a href="https://github.com/arkerone" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -20,12 +22,31 @@ I care about building useful software with clear architecture, sustainable engin
 <img src="https://img.shields.io/badge/Blog-Code%20Heroes-0f766e?style=for-the-badge&logo=rss&logoColor=white" alt="Code Heroes blog" />
 </a>
 
-### About me
+</div>
 
-- Engineering Manager with a strong backend and software architecture background.
-- Interested in pragmatic AI-assisted development, developer experience, and the way AI changes engineering work.
-- I like technical writing that clarifies tradeoffs, not just tools.
-- Blogging in French at [Code Heroes](https://codeheroes.fr).
+---
+
+### What I care about
+
+- Engineering leadership that keeps delivery, quality, and people in balance.
+- Pragmatic software architecture, especially in backend systems.
+- AI-assisted development, developer experience, and how engineering work is changing.
+- Technical writing that clarifies decisions and tradeoffs.
+
+### Topics I enjoy
+
+<p>
+  <img src="https://img.shields.io/badge/Engineering%20Management-111827?style=flat-square" alt="Engineering Management" />
+  <img src="https://img.shields.io/badge/AI%20Engineering-7c3aed?style=flat-square" alt="AI Engineering" />
+  <img src="https://img.shields.io/badge/Backend%20Architecture-0f766e?style=flat-square" alt="Backend Architecture" />
+  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+</p>
+
+### Writing
+
+I blog in French at [Code Heroes](https://codeheroes.fr), mostly about software engineering, technical decisions, JavaScript/TypeScript, architecture, and lessons from engineering management.
 
 ### Latest Blog Posts
 
