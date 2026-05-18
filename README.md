@@ -51,9 +51,9 @@ I blog in French at [Code Heroes](https://codeheroes.fr), mostly about software 
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Profiler son application Node.js : un profiler pensé pour les agents IA](https://codeheroes.fr/blog/profiler-son-application-node-js-un-profiler-pour-les-agents-ia/)
 - [Comment je suis devenu manager malgré moi](https://codeheroes.fr/blog/devenu-manager-malgre-moi/)
 - [JavaScript : présentation des &quot;iterator helpers&quot;](https://codeheroes.fr/blog/javascript-presentation-des-iterator-helpers/)
 - [À la découverte de…AdonisJS](https://codeheroes.fr/blog/a-la-decouverte-adonisjs/)
 - [Clarifiez les décisions techniques avec les ADRs](https://codeheroes.fr/blog/clarifiez-les-decisions-techniques-avec-les-adrs/)
-- [TypeScript : Programmation de types](https://codeheroes.fr/blog/typescript-programmation-de-types/)
 <!-- BLOG-POST-LIST:END -->
